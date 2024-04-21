@@ -1,6 +1,6 @@
 {
-  "name": "UiPath_SourceControl",
-  "projectId": "480304cf-1e32-4cd5-98e1-8c2bac48d4a9",
+  "name": "SC_Demo",
+  "projectId": "9dcc5702-d37b-4ec0-aef3-e3ebd645df5e",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -14,7 +14,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.8.0.0",
-  "projectVersion": "2.0.0",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "bfb3721a-b143-46b7-a64a-e3213a6e489b",
+      "uniqueId": "154fb2f8-921e-4508-a878-878175216909",
       "input": [],
       "output": []
     }
